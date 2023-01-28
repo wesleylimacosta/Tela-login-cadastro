@@ -1,0 +1,144 @@
+* {
+    font-family: sans-serif;
+}
+
+
+.header {
+    background-color: black;
+    color: white;
+    padding: 0.16em;
+    position:relative;
+    right: 0.45em;
+
+    height: 5em;
+    position: relative;
+    bottom: 0.6em;
+    width: 100.7%;
+    border-bottom: 2px solid blue;
+}
+
+
+h1 {
+    width: 2%;
+    position: relative;
+
+    left: 13em;
+    bottom: 0.2em;
+    font-size: 2.5em;
+}
+
+.nav-bar .ul1 {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 3em;
+    right: 15em;
+    list-style: none;
+}
+
+.nav-bar .ul2 {
+    color: red;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 5em;
+    right: 56em;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+}
+
+li {
+    width: 8em;
+    text-align: center;
+    position: relative;
+    bottom: 1em;
+    color: #fff;
+}
+
+.conteudo{
+    background-image: url('https://cdn.wallpapersafari.com/51/32/U1G9Ec.jpg');
+    padding: 10.2%;
+    right: 0.5em;
+    width: 67.2em;
+    height: 18.6em;
+    position: relative;
+    bottom: 0.6em;
+}
+
+.box-direita{
+    background-color: rgb(44, 44, 44);
+    width: 30em;
+    height: 28em;
+    position: relative;
+    left: 40em;
+    bottom: 4em;
+    border-radius: 20px;
+}
+.box-esquerda{
+    background-color: rgb(255, 255, 255);
+    width: 50em;
+    height: 28em;
+    right: 5em;
+    position: relative;
+    bottom: 32em;
+    border-radius: 20px;
+}
+.form{
+    position: relative;
+    top: 3em;
+    left: 2em;
+}
+.texto{
+    color: #917ff5;
+    font-size: 2em;
+    position: relative;
+    left: 4.1em;
+}
+input{
+    position: relative;
+    top: 5em;
+    left: 10em;
+    height: 2em;
+    width: 15em;
+    border-radius: 12px;
+    color: #111;
+}
+
+
+.box-texto1{
+    color: #f1f1f1;
+    font-size: 1em;
+    position: relative;
+    top: 4em;
+    left: 8em;
+}
+.box-texto2{
+    color: #f1f1f1;
+    font-size: 1em;
+    position: relative;
+    top: 4.2em;
+    left: 8em;
+}
+.box-texto3{
+    color: #f1f1f1;
+    font-size: 1em;
+    position: relative;
+    top: 4em;
+    left: 8em;
+}
+
+button{
+    position: relative;
+    width: 10em;
+    height: 4em;
+    color: black;
+    top: 6em;
+    border-radius: 12px;
+    left: 13em;
+    
+}
